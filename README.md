@@ -1,7 +1,7 @@
 # RubyTrails
 Some ruby language practice
 
-# 01. Stream I/O
+  <title>01. Stream I/O</title>
   You will learn:
     (1) print
       print "Hello, World!"
