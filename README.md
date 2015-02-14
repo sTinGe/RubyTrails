@@ -1,20 +1,7 @@
-# RubyTrails
-Some ruby language practice
+![Ruby logo](http://compsci.ca/blog/wp-content/uploads/2007/04/ruby_logo.gif)
+#RubyTrails
 
-  <h2>01. Stream I/O</h2>
-  You will learn:
-    (1) print
-      print "Hello, World!"
-      => print a string
-    (2) gets.chomp
-      name = gets.chomp
-      => get string(integer) from input stream
-    (3) capitalize!
-      name.capitalize!
-      => Modified name by converting the first character to uppercase and the reminder to lowercase, return nil if no changed.
-    (4) capitalize
-      name.capitalize
-      => Return a "copy" of name with the first character convert to uppercase and the reminder to lowercase.
-    (5)puts
-      put name
-      => puts a line
+Here are some trails for **Ruby**, please give me your feedback if you could.
+
+## 01. I/O stream
+
