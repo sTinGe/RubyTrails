@@ -13,7 +13,7 @@ Here are some trails for **Ruby**, please leave your feedback if you want.
       
     name = gets.chomp
       
-   get string from input stream
+   Get string from input stream
    
     
     name.capitalize!
@@ -25,7 +25,7 @@ Here are some trails for **Ruby**, please leave your feedback if you want.
   **Return** a "copy" of name with the first character convert to uppercase and the reminder to lowercase.
       
     puts line
-   print a line
+   Print a line
    
 ## 02. Flow Control
 	
