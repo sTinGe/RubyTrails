@@ -6,7 +6,7 @@ Here are some trails for **Ruby**, please leave your feedback if you want.
 ## 01. I/O stream
 
 
- 	print "Hello, World!"
+ 	Print "Hello, World!"
       
    **print a string**
   
