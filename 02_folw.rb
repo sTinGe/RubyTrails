@@ -33,3 +33,30 @@ while i < 10 do
 end
 
 puts "The sum of 0..9 is #{loop}"
+
+# until statement
+left = 12
+
+until left == 0 
+  if left == 1
+    puts "There is only #{left} seconds left"
+  else 
+    puts "There are #{left} seconds left"
+  end 
+  left -= 1
+end
+
+# for statement
+for i in 0..9 do
+  puts "#{i}"
+end
+
+planets = ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune"]
+for i in 0...planets.length do
+  puts planets[i]
+end
+
+#
+
+
+
