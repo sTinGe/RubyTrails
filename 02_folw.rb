@@ -56,7 +56,11 @@ for i in 0...planets.length do
   puts planets[i]
 end
 
-#
+# each method
+planets.each do |planet|
+  puts "planet"
+end
+
 
 
 
