@@ -1,7 +1,7 @@
 ![Ruby logo](http://compsci.ca/blog/wp-content/uploads/2007/04/ruby_logo.gif)
 <h1>RubyTrails</h1>
 
-Here are some trails for **Ruby** in **codeacademy**, please leave your feedback if you want.
+Here are some trails for **Ruby** in **Codeacademy**, please leave your feedback if you want.
 
 ## 01. I/O stream
 
