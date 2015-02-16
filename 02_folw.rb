@@ -58,7 +58,7 @@ end
 
 # each method
 planets.each do |planet|
-  puts "planet"
+  puts planet
 end
 
 
