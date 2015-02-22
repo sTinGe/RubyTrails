@@ -1,7 +1,7 @@
 ![Ruby logo](http://compsci.ca/blog/wp-content/uploads/2007/04/ruby_logo.gif)
 <h1>RubyTrails</h1>
 
-Here are some trails for **Ruby** in **Codeacademy**, please leave your feedback if you want.
+Here are some trails for **Ruby**, please leave your feedback if you want.
 
 ## 01. I/O stream
 
@@ -81,3 +81,26 @@ until is a special and semantic statement in ruby, the thing you should notice t
 		puts planet
 	end
 In the traversal of array, **each** is a better method than for, it could rapidly visit elements in arrays.
+
+## 03. Substitute
+**substitute** is a useful method for changing characters in strings.
+	
+	print "Thtring pleathe!: "
+	user_input = gets.chomp
+	user_input.downcase!
+
+	if user_input.include? "s"
+  		user_input.gsub!(/s/, "th")
+	else
+  		puts "Nothing to do here!"
+	end
+
+	puts "Your string is: #{user_input}" 
+	
+include? method check the substring whether in string or not. 
+
+**gsub!** changes the character and replace origin.
+
+Of course, more useful method could do more things, in ruby, method is a powerful tool to make your code be better, be more performance.
+
+##04. Hash & Symbol
